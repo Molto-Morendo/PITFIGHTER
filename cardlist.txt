@@ -1,0 +1,110 @@
+CARD LIST
+
+Each complete faction deck contains 88 universal cards and 10 faction-specific cards (98 total).
+
+[UNIVERSAL CARDS — ALL DECKS]
+Name,Card text,Stat value,Number of copies
+"1","Train: use as attack or defense.",1,10
+"2","Train: use as attack or defense.",2,9
+"3","Train: use as attack or defense.",3,8
+"4","Train: use as attack or defense.",4,7
+"5","Train: use as attack or defense.",5,6
+"6","Train: use as attack or defense.",6,5
+"7","Train: use as attack or defense.",7,4
+"8","Train: use as attack or defense.",8,3
+"9","Train: use as attack or defense.",9,2
+"10","Train: use as attack or defense.",10,1
+"Sword","+2 attack",2,3
+"Hammer","+4 attack",4,1
+"Small Shield","+4 defense",4,3
+"Large Shield","+8 defense",8,1
+"Poison","Takes 2 damage at the start of its turn.",2,3
+"Madness","25% chance its combat damage hits itself.",25,2
+"Deathmark","Destroy target fighter.",0,1
+"Armageddon","Destroy every fighter on the battlefield.",0,1
+"Evasive","Cannot be targeted by curses.",0,3
+"Berserker","25% chance to deal double combat damage.",25,1
+"Small Heal","Restore 5 health to a fighter or player.",5,6
+"Large Heal","Restore 15 health to a fighter or player.",15,1
+"Shield Master","+1 max defense and heal 1 each turn.",1,2
+"Zen Master","Prevent the next damage this fighter takes.",1,2
+"Explosive Master","Deals 2 splash damage in combat.",2,2
+"Call in the Squad","Summon Dirty Dan, Wild Wayne, and Chaste Chase as 3/3 fighters for five turns.",3,1
+
+[CINDER COVEN]
+Name,Card text,Stat value,Number of copies
+"Blood Golem","Summon a volatile 4/3 blood construct.",4,1
+"Rock Golem","Summon a steadfast 2/7 stone construct.",5,1
+"Fire Golem","Summon a 5/2 construct that splashes 1 combat damage.",5,1
+"Molten Fist","Grant a fighter +3 attack.",3,1
+"Obsidian Skin","Grant a fighter +5 defense.",5,1
+"Hemomancy","Deal 3 damage to a fighter; heal your player for damage dealt.",3,1
+"Emberheart","The fighter gains +2 attack after it survives combat.",2,1
+"Lava Surge","Deal 2 damage to every fighter.",2,1
+"Rune Forging","Grant a fighter +2 attack and +2 defense.",2,1
+"Sacrificial Spark","Destroy an allied fighter to deal 4 damage to the enemy player.",4,1
+
+[IRONROOT COMPACT]
+Name,Card text,Stat value,Number of copies
+"Brass Sentry","Summon a reliable 3/5 automaton.",4,1
+"Gear Colossus","Summon a massive 4/8 automaton.",6,1
+"Ratchet Axe","Grant +2 attack; grant +1 more if the fighter has a shield.",2,1
+"Bulwark Plates","Grant a fighter +6 defense.",6,1
+"Emergency Repairs","Restore 7 health to a fighter.",7,1
+"Overwind the Spring","Grant +2 attack now; take 1 damage after the next combat.",2,1
+"Lockstep Protocol","Adjacent allies gain +1 defense while this fighter lives.",1,1
+"Jammed Gears","Target fighter loses 2 attack this round.",2,1
+"Foundry Night Shift","Repair 3 damage on all allied fighters.",3,1
+"The Last Redoubt","Grant your most damaged fighter +8 defense and heal it for 4.",8,1
+
+[VELARI COLLECTIVE]
+Name,Card text,Stat value,Number of copies
+"Probe Unit K-7","Summon a 2/3 robot and prime your next stat card.",3,1
+"Mimetic Titan","Summon a 3/3 robot that copies the strongest enemy stat.",5,1
+"Phase Blade","Grant +3 attack and +2 scuffle damage against fighters.",3,1
+"Quantum Screen","Grant +4 defense and prevent the next curse.",4,1
+"Logic Virus","Target fighter deals 2 less combat damage for two combats.",2,1
+"Recompile","Restore 6 health to a fighter and clear one curse.",6,1
+"Adaptive Matrix","Add +2 to this fighter's lower base stat.",2,1
+"Shared Processor","Whenever you train another fighter, this fighter gains +1 defense.",1,1
+"Probability Collapse","Discover the strongest available Velari faction pattern and add it to your hand.",2,1
+"Zero Hour Protocol","Your next three cards this round have +1 value.",1,1
+
+[SANGUINE COURT]
+Name,Card text,Stat value,Number of copies
+"Stitched Thrall","Summon a reckless 4/2 thrall.",3,1
+"Crimson Duke","Summon a 5/5 vampire that heals your player when it deals damage.",6,1
+"Veinripper","Grant +4 attack; the fighter takes 1 damage.",4,1
+"Bone Cuirass","Grant +4 defense and heal 2 when it breaks.",4,1
+"Exsanguinate","Deal 4 damage to a wounded fighter.",4,1
+"Red Feast","Restore 5 health to your player.",5,1
+"Pain Is the Tutor","Grant +2 attack for each 3 damage already suffered, up to +6.",2,1
+"Deathless Oath","The next lethal hit leaves this fighter at 1 health.",1,1
+"Blood Tithe","Deal 3 damage to both players, then draw a card.",3,1
+"Night of a Thousand Knives","All allied fighters gain +1 attack for each enemy fighter this round.",1,1
+
+[TIDEBOUND CONCLAVE]
+Name,Card text,Stat value,Number of copies
+"Coral Guardian","Summon a protective 2/6 guardian.",4,1
+"Abyssal Leviathan","Summon a colossal 5/9 leviathan.",7,1
+"Barbed Trident","Grant +3 attack and return 1 damage when struck.",3,1
+"Reef Carapace","Grant a fighter +7 defense.",7,1
+"Riptide","Deal 2 damage and remove one weapon from a fighter.",2,1
+"Restorative Rain","Restore 4 health to all allied fighters.",4,1
+"Patience of the Deep","Grant +3 defense; gain +2 attack after surviving a defensive scuffle.",3,1
+"Pearl Aegis","Prevent the next 3 damage to this fighter.",3,1
+"Call the High Tide","Heal your player and every allied fighter for 5.",5,1
+"Undertow Reversal","The next time your player takes damage, return up to 4 to the source.",4,1
+
+[TEMPEST CLANS]
+Name,Card text,Stat value,Number of copies
+"Thunder Roc","Summon a swift 5/3 lightning beast.",5,1
+"Cloudstrider Raider","Summon a 3/4 raider and count this as two cards for Gathering Storm.",4,1
+"Fulgur Blade","Grant +3 attack; deal 1 damage to a random enemy fighter.",3,1
+"Skyglass Kite Shield","Grant +4 defense; draw a card when the shield is depleted.",4,1
+"Chain Lightning","Deal 2 damage to a fighter and 1 to another enemy.",2,1
+"Second Wind","Restore 5 health; if this is your third card, restore 8 instead.",5,1
+"Eye of the Storm Training","Grant +2 attack and curse immunity until the next combat.",2,1
+"Tailwind","The next card you play has +1 value.",1,1
+"Rolling Stormfront","Deal 1 damage to all enemies for each card played before this one this round, up to 4.",1,1
+"Ride the Lightning","Your fighters gain +2 attack this round; draw a card.",2,1
