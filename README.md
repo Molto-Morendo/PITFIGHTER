@@ -1,5 +1,7 @@
 # Pit Fighter
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKTR3KY_VxA?si=uial7zGEbi2M9kBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 A self-contained Godot 4 faction card battler. Choose one of six doctrines,
 build gladiators, deploy faction creations, and carry dramatic upgrades through
 an escalating run of arena encounters. Both players begin an encounter at 20
